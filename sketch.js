@@ -28,7 +28,7 @@ function setup() {
 
 	ground = new Ground(600,370,1200,20);
 
-	paper = new Paper(350,300,50);
+	paper = new Paper(400,300,50);
 
 	Engine.run(engine);
   
